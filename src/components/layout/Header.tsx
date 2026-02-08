@@ -22,6 +22,7 @@ export default function Header() {
     { name: 'Programs', href: '#programs' },
     { name: 'Why Us', href: '#why-us' },
     { name: 'Contact', href: '#contact' },
+    { name: 'Dashboard', href: '/dashboard' },
   ];
 
   return (
